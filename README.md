@@ -76,3 +76,7 @@ const response = await fetch(`${API_URL}/api/v1/auth/login`, {
 Charts use the Lahiri sidereal zodiac, whole-sign houses counted from the ascendant, mean Rahu, and Vimshottari dasha from the Moon. House 1 is the ascendant sign. Each planet includes its sign, nakshatra, pada, navamsa, house, dignity, retrograde flag, and combustion flag.
 
 The response also includes the birth nakshatra, a manglik check from the ascendant, Moon, and Venus, a few standard yogas, and mahadasha / antardasha periods. The current period includes the pratyantardasha.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
